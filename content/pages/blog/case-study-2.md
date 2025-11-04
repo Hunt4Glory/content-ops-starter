@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Bots and Bottles
 slug: case-study-2
 date: '2026-01-01'
 excerpt: >-
