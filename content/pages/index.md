@@ -159,7 +159,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/IMDB_Logo_2016.svg.png
+      - url: /images/IMDB_Logo_2016.svg (1).png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
