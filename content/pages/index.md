@@ -165,7 +165,7 @@ sections:
       - url: /images/letterboxd-logo-v-neg-rgb-1000px.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/YouTube.webp
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
