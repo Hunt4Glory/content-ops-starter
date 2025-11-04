@@ -44,7 +44,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A story in every frame.
+    subtitle: An upcoming Perth production studio.
     items:
       - type: FeaturedItem
         title: 500k
