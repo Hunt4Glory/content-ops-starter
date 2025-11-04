@@ -162,7 +162,7 @@ sections:
       - url: /images/IMDB_Logo_2016.svg (1).png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/letterboxd-logo-v-neg-rgb-1000px.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
