@@ -102,8 +102,8 @@ sections:
       - title: Collaborate
         subtitle: Get in touch
         text: >
-          Looking to collaborate? Reach out via our contact page or to our
-          social media.
+          Looking to **collaborate**? Reach out via our **contact page** or to
+          our **social media.**
         image:
           url: /images/icon3.svg
           altText: Featured icon three
