@@ -77,8 +77,9 @@ sections:
       - title: Featured
         subtitle: Into the Mainframe
         text: >
-          A 5 minute, animated short film, set in a sci-fi digital world, in
-          which a thief has to make a living by stealing digital currencies.
+          A **5 minute**, **animated short film**, set in a sci-fi digital
+          world, in which a thief has to make a living by stealing digital
+          currencies, directed by **Hunter Blakey.**
         image:
           url: /images/icon2.svg
           altText: Featured icon two
