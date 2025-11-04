@@ -25,7 +25,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/IntoTheMainframe_poster_4x5_2400x3000.jpg
     elementId: ''
     colors: bg-light-fg-dark
     styles:
