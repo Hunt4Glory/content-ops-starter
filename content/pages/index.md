@@ -7,7 +7,7 @@ sections:
       text: Hunter Blakey
       color: text-dark
       type: TitleBlock
-    subtitle: 'Director, Writer and Cinematographer'
+    subtitle: 'Director, Writer and Cinematographer.'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
