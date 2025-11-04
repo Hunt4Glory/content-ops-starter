@@ -74,7 +74,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Featured
+      - title: Films
         subtitle: Into the Mainframe
         text: >
           A **5 minute**, **animated short film**, set in a sci-fi digital
