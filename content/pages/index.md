@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: 'Director, Writer and Cinematographer.'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      18 year old 3D artist, editor and filmmaker, who specialises In animated
+      short productions.
     actions:
       - label: Get started
         altText: ''
