@@ -160,7 +160,7 @@ sections:
         altText: Wellster logo
         type: ImageBlock
       - url: /images/IMDB_Logo_2016.svg (1).png
-        altText: Vise logo
+        altText: IMDb Logo
         type: ImageBlock
       - url: /images/letterboxd-logo-v-neg-rgb-1000px.png
         altText: Telus logo
