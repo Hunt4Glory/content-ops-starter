@@ -151,7 +151,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Film reviews on IMDb and Letterboxd.
+  - subtitle: Film on IMDb and Letterboxd.
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
