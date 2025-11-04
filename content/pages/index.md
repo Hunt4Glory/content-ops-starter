@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Contact
         altText: ''
-        url: /
+        url: /careers
         showIcon: false
         icon: arrowRight
         iconPosition: right
