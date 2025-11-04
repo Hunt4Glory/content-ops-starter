@@ -75,7 +75,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Films
-        subtitle: Into the Mainframe
+        subtitle: '"Into the Mainframe"'
         text: >
           A **5 minute**, **animated short film**, set in a sci-fi digital
           world, in which a thief has to make a living by stealing digital
