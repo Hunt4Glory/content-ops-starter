@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Hunter blakey
+      label: Hunter blakey (2025)
       color: text-primary
       type: Badge
     elementId: ''
