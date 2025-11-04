@@ -76,10 +76,9 @@ sections:
               borderRadius: x-large
       - title: Featured
         subtitle: Into the Mainframe
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          A 5 minute, animated short film, set in a sci-fi digital world, in
+          which a thief has to make a living by stealing digital currencies.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
