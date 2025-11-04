@@ -25,6 +25,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/Screenshot 2025-11-03 at 5.22.52 pm.png
     elementId: ''
     colors: bg-light-fg-dark
     styles:
