@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Director, Editor and Writer.'
+      text: Hunter Blakey
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
