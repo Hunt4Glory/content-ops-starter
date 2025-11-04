@@ -12,7 +12,7 @@ sections:
       **An 18 year old 3D artist, editor and filmmaker, who specialises In
       animated short productions.**
     actions:
-      - label: Get started
+      - label: Contact
         altText: ''
         url: /
         showIcon: false
