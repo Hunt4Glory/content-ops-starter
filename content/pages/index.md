@@ -48,7 +48,7 @@ sections:
     items:
       - type: FeaturedItem
         title: About
-        subtitle: Founded 2025
+        subtitle: Founded in 2025
         text: >
           Independant filmmaking with a focus on animation. Founded by Hunter
           Blakey, Silverfield brings ideas to life.
